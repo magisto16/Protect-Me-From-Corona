@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">Protect Me From Corona</string>
+    <string name="para1">Coronavirus adalah kumpulan virus yang bisa menginfeksi sistem pernapasan.
+                         Pada banyak kasus, virus ini hanya menyebabkan infeksi pernapasan ringan,
+                         seperti flu. Namun, virus ini juga bisa menyebabkan infeksi pernapasan berat,
+                         seperti infeksi paru-paru (pneumonia). Selain virus SARS-CoV-2 atau virus Corona,
+                         virus yang juga termasuk dalam kelompok ini adalah virus penyebab
+                         Severe Acute Respiratory Syndrome (SARS) dan virus penyebab
+                         Middle-East Respiratory Syndrome (MERS). Meski disebabkan oleh virus
+                         dari kelompok yang sama, yaitu coronavirus, COVID-19 memiliki beberapa perbedaan dengan
+                         SARS dan MERS, antara lain dalam hal kecepatan penyebaran dan keparahan gejala.
+    </string>
+    <string name="helpdesk">Aplikasi ini dibuat untuk membantu pengguna dalam pencegahan covid-19 dan
+                            memberikan informasi terkini mengenai covid-19</string>
+    <string name="napas">Napas pendek</string>
+    <string name="demam">Demam</string>
+    <string name="batuk">Batuk kering</string>
+    <string name="menggigil">Menggigil</string>
+    <string name="rasa">Kehilangan bau dan rasa</string>
+    <string name="sakit">Sakit kepala, hidung, dan tenggorokan</string>
+
+    //WHATMENU
+    <string name="title1">Apa itu corona?</string>
+    <string name="title2">Gejala Corona</string>
+    <string name="title3">Tips Menghindari Corona</string>
+
+    <string name="desc1">
+        Covid-19 adalah kumpulan virus yang bisa menginfeksi sistem pernapasan.
+        Pada banyak kasus, virus ini hanya menyebabkan infeksi pernapasan ringan,
+        seperti flu. Namun, virus ini juga bisa menyebabkan infeksi pernapasan berat,
+        seperti infeksi paru-paru (pneumonia). Selain virus SARS-CoV-2 atau virus Corona,
+        virus yang juga termasuk dalam kelompok ini adalah virus penyebab
+        Severe Acute Respiratory Syndrome (SARS) dan virus penyebab
+        Middle-East Respiratory Syndrome (MERS). Meski disebabkan oleh virus
+        dari kelompok yang sama, yaitu coronavirus, COVID-19 memiliki beberapa perbedaan dengan
+        SARS dan MERS, antara lain dalam hal kecepatan penyebaran dan keparahan gejala.
+    </string>
+    <string name="desc2">
+        Secara umum, ada 3 gejala umum yang bisa menandakan seseorang terinfeksi virus Corona, yaitu:
+
+        1. Demam (suhu tubuh di atas 38 derajat Celsius)
+        2. Batuk kering
+        3. Sesak napas
+
+        Ada beberapa gejala lain yang juga bisa muncul pada infeksi virus Corona meskipun lebih jarang, yaitu:
+
+        1. Diare
+        2. Sakit kepala
+        3. Konjungtivitis
+        4. Hilangnya kemampuan mengecap rasa atau mencium bau
+        5. Ruam di kulit
+
+        Gejala-gejala COVID-19 ini umumnya muncul dalam waktu 2 hari sampai 2 minggu setelah penderita terpapar virus Corona.
+    </string>
+    <string name="desc3">
+        Segera lakukan isolasi mandiri bila Anda mengalami gejala infeksi virus Corona (COVID-19) seperti yang telah disebutkan di atas,
+        terutama jika dalam 2 minggu terakhir Anda berada di daerah yang memiliki kasus COVID-19 atau kontak dengan penderita COVID-19.
+        Setelah itu, hubungi hotline COVID-19 di 119 Ext. 9 untuk mendapatkan pengarahan lebih lanjut.
+
+        Bila Anda mungkin terpapar virus Corona tapi tidak mengalami gejala apa pun,
+        Anda tidak perlu memeriksakan diri ke rumah sakit,
+        cukup tinggal di rumah selama 14 hari dan membatasi kontak dengan orang lain. Bila muncul gejala,
+        baru lakukan isolasi mandiri dan tanyakan kepada dokter melalui telepon atau aplikasi mengenai tindakan apa yang perlu Anda lakukan dan obat apa yang perlu Anda konsumsi.
+
+        Bila Anda memerlukan pemeriksaan langsung oleh dokter,
+        jangan langsung ke rumah sakit karena itu akan meningkatkan risiko Anda tertular atau menularkan virus Corona ke orang lain.
+    </string>
+</resources>

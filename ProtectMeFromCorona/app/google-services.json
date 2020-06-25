@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "954856127727",
+    "firebase_url": "https://authentification-fc32c.firebaseio.com",
+    "project_id": "authentification-fc32c",
+    "storage_bucket": "authentification-fc32c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:954856127727:android:62c3e79e6c02e1fe01af1a",
+        "android_client_info": {
+          "package_name": "com.example.protectmefromcorona"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "954856127727-3iavmq6ain1lpdqfdeeq3nhtggo82dhk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9HVocvxD76LnYCb43jOgrhgviBJGu1o4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "954856127727-3iavmq6ain1lpdqfdeeq3nhtggo82dhk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
